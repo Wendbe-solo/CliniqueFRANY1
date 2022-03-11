@@ -1,0 +1,57 @@
+body{
+    background-color: #DDD;
+    margin: auto;
+    width: auto;
+}
+.menu{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 0px;
+    margin-right: 0px;
+    display: flex;
+    background-color: yellow;
+    font-size: 30px;
+    font-family:"Times New Roman";
+    font-weight: bold;
+    width: 1300px;
+}
+a{
+    text-decoration: none;
+}
+.bande{
+    background-color: green;
+    display: flex;
+}
+.centre{
+    text-align: center;
+}
+.presentation{
+    font-size: 30px;
+}
+.avantpied{
+    display: flex;
+    font-size: 17px;
+}
+
+.apied{
+    
+    background-color: rgb(23, 59, 19);
+}
+.pied{
+    background-color: black;
+    width: 100%;
+    height: 30px;
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    
+}
+.toutpied{ 
+    
+    padding-top: 50px;
+    background-color: rgb(23, 59, 19);
+    color: #fff;
+}
+   
+    color: #fff;
+}

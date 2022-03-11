@@ -1,0 +1,74 @@
+body{
+    background-color: #DDD;
+    margin: auto;
+    width: auto;
+}
+.menu{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 0px;
+    margin-right: 0px;
+    display: flex;
+    background-color: yellow;
+    font-size: 20px;
+    font-family:"Times New Roman";
+    font-weight: bold;
+    width: 1300px;
+}
+.parent{
+        position: relative;
+}
+img.superposer{
+                position: absolute;
+                top: 110px;
+                left: 0px;
+            
+}
+.accueil1{
+    
+    margin-left: 40px;
+    
+    display: flex;
+    background-color: #fff;
+    opacity: 0.5;
+    position: relative;
+
+   
+}
+.transparent {
+   
+    font-size: 20px;
+    display: flex;
+   
+  
+}
+
+a{
+    text-decoration: none;
+}
+.bande{
+    background-color: green;
+    display: flex;
+}
+.avantpied{
+    display: flex;
+    font-size: 17px;
+}
+
+.apied{
+    background-size: #fff;
+}
+.pied{
+    background-color: black;
+    width: 100%;
+    height: 30px;
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    
+}
+.toutpied{
+    padding-top: 50px;
+    background-color: rgb(23, 59, 19);
+    color: #fff;
+}
